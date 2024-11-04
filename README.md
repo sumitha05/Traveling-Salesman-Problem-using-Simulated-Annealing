@@ -78,4 +78,10 @@ Simulated Annealing (SA) is a probabilistic optimization method inspired by the 
    *Simulated Annealing on Wikipedia*:<br> https://en.wikipedia.org/wiki/Simulated_annealing<br>
    *University of Waterloo TSP Library*:<br> https://www.math.uwaterloo.ca/tsp/vlsi/index.html
 
+<h2 id="contributers">Contributor</h2>
 
+<div align="center">
+  <strong>
+    <a href="https://github.com/sumitha05">Sumitha S</a> &emsp;
+  </strong>
+</div>
